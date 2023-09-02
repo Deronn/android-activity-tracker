@@ -1,0 +1,9 @@
+com\alexronnegi\network\Network.class
+com\alexronnegi\serialization\Result.class
+com\alexronnegi\worker\nodes\Node.class
+com\alexronnegi\worker\nodes\Worker.class
+com\alexronnegi\serialization\Wpt.class
+com\alexronnegi\serialization\Gpx.class
+com\alexronnegi\serialization\MagicToken.class
+com\alexronnegi\computations\Computer.class
+com\alexronnegi\worker\nodes\Worker$1.class
